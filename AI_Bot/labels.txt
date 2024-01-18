@@ -1,0 +1,6 @@
+0 Australia
+1 Amerika Utara
+2 Amerika Selatan
+3 Eropa
+4 Afrika
+5 Asia
